@@ -15,6 +15,9 @@
 # *.ps
 # *.eps
 # *.pdf
+ixd_blatt*.pdf
+dami_blatt*.pdf
+gpu_blatt*.pdf
 
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
